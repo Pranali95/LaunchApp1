@@ -16,9 +16,6 @@ package pomoarnge;
 		//Constructor
 		WebDriver driver;
 		
-			public Search(WebDriver driver) {
-				
-				this.driver=driver;
-				PageFactory.initElements(driver, this);
+		
 			}}
 
