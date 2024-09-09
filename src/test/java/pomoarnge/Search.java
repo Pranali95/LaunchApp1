@@ -11,11 +11,7 @@ package pomoarnge;
 	import org.openqa.selenium.support.PageFactory;
 
 
-	public class Search {
+	
 		
-		//Constructor
-		WebDriver driver;
-		
-		
-			}}
+			
 
